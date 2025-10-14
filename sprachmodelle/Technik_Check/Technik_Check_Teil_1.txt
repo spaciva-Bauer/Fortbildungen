@@ -31,6 +31,6 @@ Im Vorfeld wurden die benötigten Systeme auf dem eigenen Rechner installiert (s
 8.	Fügen Sie in die vorletzte Zelle den String zum API-Key wie folgt ein: OPENAI_API_KEY="..."
 	Den benötigten String entnehmen Sie bitte der Datei des Video-Streams.
 
-9. 	Führen Sie die letzte Zelle erneut aus.
+9. 	Führen Sie die beiden letzten Zellen erneut aus.
 
 
