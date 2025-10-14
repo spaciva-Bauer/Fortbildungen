@@ -17,13 +17,16 @@ Im Vorfeld wurden die benötigten Systeme auf dem eigenen Rechner installiert (s
 3.	a) Windows-Taste: Jupyter-Notebook-App starten 	(schnellerer Weg) oder 
 	b) Anaconda-Navigator "launch Jupyter-Notebook" (langsamerer Weg)
 
-6.	Jupyter-Webinterface: http://localhost:8888/tree
+4.	Sollte sich der Browser nicht selbstständig öffnen, gehen Sie bitte wie folgt vor:
+	Start eines Browsers -> Zugriff auf das Jupyter-Webinterface über: http://localhost:8888/tree
 
-7.	Erstelle einen Ordner über das Webinterface und lade die Beispiel-Dateien hoch
+5.	Laden Sie die Datei Techik_Check_Teil_2.ipynb aus dem Videostream herunter und 
+	kopieren Sie diese in z.B. in das Root-Verzeichnis des Web-Servers.
+	
+6.	Wählen Sie in der Python-Umgebung die Datei aus (Jupyter-Notebook) uns führen Sie alle Zellen aus: 
+	Menüpunkt Run -> Run all Cells
 
-8.	ollama-Notebook: Code-Zeile aktivieren und ausführen -> pip install ollama
-
-9.	Run -> Run all Cells
+7.	Die Codezellen sollten jetzt alle ausgeführt werden. Bei der letzten Zelle muss eine Fehlermeldung erscheinen!!
 
 10.	Open-AI-Notebook: Code-Zeile aktivieren und ausführen -> pip install openai 
 
