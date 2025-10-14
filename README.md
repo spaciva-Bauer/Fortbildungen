@@ -1,0 +1,1 @@
+Dieses Repository beinhaltet alle Unterlagen zu Fortbildungen, die Oliver Bauer im Rahmen der Fortbildungsoffensive für das Fach KIT der Ausbildungsrichtung Technik an der Beruflichen Oberschule durchgeführt hat.
