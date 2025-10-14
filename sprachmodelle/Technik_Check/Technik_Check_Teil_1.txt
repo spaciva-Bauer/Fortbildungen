@@ -28,10 +28,9 @@ Im Vorfeld wurden die benötigten Systeme auf dem eigenen Rechner installiert (s
 
 7.	Die Codezellen sollten jetzt alle ausgeführt werden. Bei der letzten Zelle muss eine Fehlermeldung erscheinen!!
 
-10.	Open-AI-Notebook: Code-Zeile aktivieren und ausführen -> pip install openai 
+8.	Fügen Sie in die vorletzte Zelle den String zum API-Key wie folgt ein: OPENAI_API_KEY="..."
+	Den benötigten String entnehmen Sie bitte der Datei des Video-Streams.
 
-11.	API-Key einfügen!
-
-12. 	Run -> Run all Cells
+9. 	Führen Sie die letzte Zelle erneut aus.
 
 
