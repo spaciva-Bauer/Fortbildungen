@@ -1,0 +1,34 @@
+Vorbereitungen zur einwandfreien Funktionalität aller 
+Komponenten zur Fortbildungsveranstaltung "Sprachmodelle"
+
+
+Im Vorfeld wurden die benötigten Systeme auf dem eigenen Rechner installiert (siehe Anlage der Fibs-Einladung).
+
+********************* Test der Ollama-Umgebung *********************
+
+1.	Starten Sie die Ollama-App. Daraufhin sollte das Web-Interface der App erscheinen.
+
+2.	Wählen Sie im Chat-Fenster zunächst das Sprachmodell gemma3:1b aus und starten Sie den Chat. 
+	Im Anschluss wird zunächst das Modell heruntergeladen (778 MB), danach ist eine Kommunikation mit dem Sprachmodell möglich.
+
+
+********************* Test der Python-Umgebung *********************
+
+3.	a) Windows-Taste: Jupyter-Notebook-App starten 	(schnellerer Weg) oder 
+	b) Anaconda-Navigator "launch Jupyter-Notebook" (langsamerer Weg)
+
+6.	Jupyter-Webinterface: http://localhost:8888/tree
+
+7.	Erstelle einen Ordner über das Webinterface und lade die Beispiel-Dateien hoch
+
+8.	ollama-Notebook: Code-Zeile aktivieren und ausführen -> pip install ollama
+
+9.	Run -> Run all Cells
+
+10.	Open-AI-Notebook: Code-Zeile aktivieren und ausführen -> pip install openai 
+
+11.	API-Key einfügen!
+
+12. 	Run -> Run all Cells
+
+
