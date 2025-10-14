@@ -20,8 +20,8 @@ Im Vorfeld wurden die benötigten Systeme auf dem eigenen Rechner installiert (s
 4.	Sollte sich der Browser nicht selbstständig öffnen, gehen Sie bitte wie folgt vor:
 	Start eines Browsers -> Zugriff auf das Jupyter-Webinterface über: http://localhost:8888/tree
 
-5.	Laden Sie die Datei Techik_Check_Teil_2.ipynb aus dem Videostream herunter und 
-	kopieren Sie diese in z.B. in das Root-Verzeichnis des Web-Servers.
+5.	Laden Sie die Datei Techik_Check_Teil_2.ipynb aus dem Videostream herunter. Die Datei befindet sich anschließend 
+	direkt im Root-Verzeichnis des Web-Servers und kann als Jupyter-Notebook geöffnet werden.
 	
 6.	Wählen Sie in der Python-Umgebung die Datei aus (Jupyter-Notebook) uns führen Sie alle Zellen aus: 
 	Menüpunkt Run -> Run all Cells
